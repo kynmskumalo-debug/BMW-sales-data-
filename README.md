@@ -48,7 +48,7 @@ Check if higher tax rates are linked with less efficient cars.Output shows highe
 
 <b>Price Cluster using KMeans</b>
 
-Using clustering to group by price, milease and engine size.Reveals market segments like budge, mid-range and premuim
+Using clustering to group by price, milease and engine size.Reveals market segments like budget, mid-range and premuim
 
 
 
