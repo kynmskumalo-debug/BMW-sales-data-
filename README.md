@@ -4,19 +4,19 @@ Dataset contains columns with car details such as model, year, price, transmissi
 
 <b>Price Distribution</b>
 
-This visualizes how car proces are distributed accross the dataset.This helps identify if the data is skewed toward high or low proces.Most cars are priced at 
+This visualizes how car process are distributed accross the dataset.This helps identify if the data is skewed toward high or low proces.Most cars are priced at 15 000 to 20 000(Euro). 
 
 <b>Model Popularity</b>
 
-This count how many listings each model has. This is useful for understanding which models dominate the dataset.The most listed models are 
+This count how many listings each model has. This is useful for understanding which models dominate the dataset.The most listed models are the 3 series, 1 and 2 series. 
 
 <b>Year vs Price Trend</b>
 
-Analyzes how avergae price changes by production year and shows depreciation or value retention over time. (The trend shows newer cars generally higher priceed eg)
+Analyzes how avergae price changes by production year and shows depreciation or value retention over time.The trend shows newer cars generally higher priced.
 
 <b>Mileage Impact on Price</b>
 
-Check how mileage affects the cars resale price.We expect higher mileage to reduce price. The negative correlation between mileage and price
+Check how mileage affects the cars resale price.We expect higher mileage to reduce price. The negative correlation between mileage and price.
 
 <b>Transmission comparion</b>
 
@@ -24,7 +24,7 @@ Compares avergae prices between manual and automatic cars. (Note which transmiss
 
 <b>Fuel Type and Efficieny</b>
 
-Identifies which fuel type offers the best avergae MPG.Diesiel usually has higher MPG than petrol 
+Identifies which fuel type offers the best avergae MPG.Diesiel usually has higher MPG than petrol.
 
 <b>Enging size vs Price</b>
 
@@ -32,7 +32,7 @@ Test if larger engine sizes are associated with higher prices. Shows posotive co
 
 <b>Correlation Heatmap</b>
 
-Check correlation strength between numerical variables. Helps understand which features are most related to price(mention key correlations price positive related to year  or engine size)
+Check correlation strength between numerical variables. Helps understand which features are most related to price. Allows asumption on key correlations if price positive related to year or engine size.
 
 <b>Depreciation Over Time</b>
 
